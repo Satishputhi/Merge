@@ -8,6 +8,7 @@ public class MylapApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MylapApplication.class, args);
+		System.out.println("satish");
 	}
 
 }
